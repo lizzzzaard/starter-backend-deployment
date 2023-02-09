@@ -12,3 +12,4 @@ This repo was adapted from [this repository](https://github.com/Thinkful-Ed/star
 1. Run `npm install`.
 1. Run `npx knex migrate:latest`.
 1. Run `npx knex seed:run`.
+# database-setup-practice
